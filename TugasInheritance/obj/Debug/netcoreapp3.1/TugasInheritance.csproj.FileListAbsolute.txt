@@ -1,0 +1,13 @@
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.csprojAssemblyReference.cache
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.AssemblyInfoInputs.cache
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.AssemblyInfo.cs
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.csproj.CoreCompileInputs.cache
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance.deps.json
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance.runtimeconfig.json
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance.runtimeconfig.dev.json
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance.dll
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/bin/Debug/netcoreapp3.1/TugasInheritance.pdb
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.dll
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.pdb
+/media/dhan14/220C6C040C6BD179/Github Repository/Latihan1-IntegerInheritanceExtend/TugasInheritance/obj/Debug/netcoreapp3.1/TugasInheritance.genruntimeconfig.cache
